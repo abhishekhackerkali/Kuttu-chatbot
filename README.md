@@ -1,6 +1,6 @@
-# 🤖 BuddyBot – Simple Chatbot
+# 🤖 Kuttu – Simple Chatbot
 
-BuddyBot is a simple rule-based chatbot built using Python and Streamlit.  
+Kuttu is a simple rule-based chatbot built using Python and Streamlit.  
 It can hold basic conversations, greet users, answer simple questions, and tell jokes.
 
 ---
